@@ -28,6 +28,10 @@ hazy images show that the proposed method performs favorably
 against state-of-the-art dehazing methods.* 
 <hr />
 
+## Demo
+
+We have provided two version of demos, i,e., the concise verison (demo_consise.mlx) that only returns dehazing results for input hazy images, and the detailed verison (demo_detailed.mlx) that outputs all intermidiate results with visualization. 
+
 ## Demonstration of saturation line prior
 
 ![image](https://github.com/LPengYang/Saturation_Line_Prior/blob/main/Demonstration%20figures/demonstrastion_slp_process.png) 
@@ -35,7 +39,3 @@ against state-of-the-art dehazing methods.*
 ![image](https://github.com/LPengYang/Saturation_Line_Prior/blob/main/Demonstration%20figures/Concept.png) 
 
 ![image](https://github.com/LPengYang/Saturation_Line_Prior/blob/main/Demonstration%20figures/more_examples.png) 
-
-## Demo
-
-We have provided two version of demos, i,e., the concise verison (demo_consise.mlx) that only returns dehazing results for input hazy images, and the detailed verison (demo_detailed.mlx) that outputs all intermidiate results with visualization. 
