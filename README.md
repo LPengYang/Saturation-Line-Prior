@@ -28,6 +28,13 @@ hazy images show that the proposed method performs favorably
 against state-of-the-art dehazing methods.* 
 <hr />
 
+## Demonstration of saturation line prior
+
+![image](https://github.com/LPengYang/Saturation_Line_Prior/blob/main/Demonstration%20figures/demonstrastion_slp_process.png) 
+
+![image](https://github.com/LPengYang/Saturation_Line_Prior/blob/main/Demonstration%20figures/Concept.png) 
+
+![image](https://github.com/LPengYang/Saturation_Line_Prior/blob/main/Demonstration%20figures/more_examples.png) 
 
 ## Demo
 
