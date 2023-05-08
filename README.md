@@ -30,7 +30,7 @@ against state-of-the-art dehazing methods.*
 
 ## Demo
 
-We have provided two version of demos, i,e., the concise verison (demo_consise.mlx) that only returns dehazing results for input hazy images, and the detailed verison (demo_detailed.mlx) that outputs all intermidiate results with visualization. 
+We have provided two version of demos, i,e., the concise verison (demo_concise.mlx) that only returns dehazing results for input hazy images, and the detailed verison (demo_detailed.mlx) that outputs all intermidiate results with visualization. 
 
 ## Demonstration of Saturation Line Prior (SLP)
 
