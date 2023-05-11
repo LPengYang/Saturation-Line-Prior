@@ -34,8 +34,8 @@ We have provided two version of demos, i,e., the concise verison (demo_concise.m
 
 ## Demonstration of Saturation Line Prior (SLP)
 
-![image](https://github.com/LPengYang/Saturation_Line_Prior/blob/main/Demonstration%20figures/demonstrastion_slp_process.png) 
+![image](https://github.com/LPengYang/Saturation_Line_Prior/blob/main/demonstration%20figures/demonstrastion_slp_process.png) 
 
-![image](https://github.com/LPengYang/Saturation_Line_Prior/blob/main/Demonstration%20figures/Concept.png) 
+![image](https://github.com/LPengYang/Saturation_Line_Prior/blob/main/demonstration%20figures/Concept.png) 
 
-![image](https://github.com/LPengYang/Saturation_Line_Prior/blob/main/Demonstration%20figures/more_examples.png) 
+![image](https://github.com/LPengYang/Saturation_Line_Prior/blob/main/demonstration%20figures/more_examples.png) 
