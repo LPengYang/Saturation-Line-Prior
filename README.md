@@ -1,5 +1,4 @@
-# Single Image Dehazing Using Saturation Line Prior
-
+# Single Image Dehazing Using Saturation Line Prior (2023 TIP) —— Official Implementation 
 
 <hr />
 
