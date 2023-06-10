@@ -38,3 +38,17 @@ We have provided two version of demos, i,e., the concise verison (demo_concise.m
 ![image](https://github.com/LPengYang/Saturation_Line_Prior/blob/main/demonstration%20figures/Concept.png) 
 
 ![image](https://github.com/LPengYang/Saturation_Line_Prior/blob/main/demonstration%20figures/more_examples.png) 
+
+
+## Citation
+If you use our work, please consider citing:
+
+    @ARTICLE{10141557,
+    author={Ling, Pengyang and Chen, Huaian and Tan, Xiao and Jin, Yi and Chen, Enhong},
+    journal={IEEE Transactions on Image Processing}, 
+    title={Single Image Dehazing Using Saturation Line Prior}, 
+    year={2023},
+    volume={32},
+    number={},
+    pages={3238-3253},
+    doi={10.1109/TIP.2023.3279980}}
