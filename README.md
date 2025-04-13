@@ -1,4 +1,5 @@
 # Single Image Dehazing Using Saturation Line Prior (2023 TIP) 
+## Implementations on both Pytorch and Matlab are available now.
 
 <hr />
 
@@ -27,9 +28,17 @@ hazy images show that the proposed method performs favorably
 against state-of-the-art dehazing methods.* 
 <hr />
 
-## Demo
+
+## 🎈 Quick Start on Pytorch (the gamma correction is optional)
+```
+python3 slp_main.py --gamma
+```
+
+## Demo on Matlab
 
 We have provided two version of demos, i,e., the concise verison (demo_concise.mlx) that only returns dehazing results for input hazy images, and the detailed verison (demo_detailed.mlx) that outputs all intermidiate results with visualization. 
+
+
 
 ## Demonstration of Saturation Line Prior (SLP)
 
