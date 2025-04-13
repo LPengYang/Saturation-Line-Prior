@@ -1,4 +1,4 @@
-# Single Image Dehazing Using Saturation Line Prior (2023 TIP) 
+# Single Image Dehazing Using Saturation Line Prior
 ## Implementations on both Pytorch and Matlab are available now.
 
 <hr />
