@@ -3,7 +3,7 @@
 
 <hr />
 
-> **Abstract:** *—Saturation information in hazy images is conducive
+> **Abstract:** *Saturation information in hazy images is conducive
 to effective haze removal, However, existing saturation-based
 dehazing methods just focus on the saturation value of each
 pixel itself, while the higher-level distribution characteristic
