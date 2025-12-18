@@ -1,5 +1,5 @@
 # Single Image Dehazing Using Saturation Line Prior
-## PyTorch and MATLAB implementations are now available.
+## [PyTorch](https://github.com/LPengYang/Saturation-Line-Prior/blob/main/slp_main.py) and [MATLAB](https://github.com/LPengYang/Saturation-Line-Prior/blob/main/demo_concise.mlx) implementations are now available.
 
 <hr />
 
