@@ -1,10 +1,10 @@
 # Single Image Dehazing Using Saturation Line Prior
-## Implementations on both Pytorch and Matlab are available now.
+## PyTorch and MATLAB implementations are now available.
 
 <hr />
 
 > **Abstract:** *Saturation information in hazy images is conducive
-to effective haze removal, However, existing saturation-based
+to effective haze removal. However, existing saturation-based
 dehazing methods just focus on the saturation value of each
 pixel itself, while the higher-level distribution characteristic
 between pixels regarding saturation remains to be harnessed.
