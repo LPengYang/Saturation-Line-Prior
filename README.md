@@ -36,7 +36,7 @@ python3 slp_main.py --gamma
 
 ## Demo on Matlab
 
-We have provided two version of demos, i,e., the concise verison (demo_concise.mlx) that only returns dehazing results for input hazy images, and the detailed verison (demo_detailed.mlx) that outputs all intermidiate results with visualization. 
+We have provided two versions of demos, i,e., the concise version (demo_concise.mlx) that only returns dehazing results for input hazy images, and the detailed version (demo_detailed.mlx) that outputs all intermediate results with visualization. 
 
 
 
